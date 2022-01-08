@@ -1,1 +1,1 @@
-![alt text](http://url/to/dtmoney.png)
+![alt text](https://github.com/marcusazevedo/dt_money/blob/master/dtmoney.png)
